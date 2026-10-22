@@ -4,6 +4,10 @@
 
 Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `cli`, `plugin`.
 
+Line format: `name — url`, plus ` — note` when there is a note. The notes, the search
+log and the research notes are folded into the bottom of this file, so this stays the
+single file to search.
+
 - 06ketan/slideshot — https://github.com/06ketan/slideshot
 - 06ketan/substack-ops — https://github.com/06ketan/substack-ops
 - 0rkz/byte-mcp-server — https://github.com/0rkz/byte-mcp-server
@@ -325,7 +329,7 @@ Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `c
 - arsentev-ai/contextburn — https://github.com/arsentev-ai/contextburn
 - arslan2012/qpost-mcp — https://github.com/arslan2012/qpost-mcp
 - artemchuikin/youtube-mcp — https://github.com/artemchuikin/youtube-mcp
-- ArtemShatokhin/awesome-anythingllm-alternatives — https://github.com/ArtemShatokhin/awesome-anythingllm-alternatives
+- ArtemShatokhin/awesome-anythingllm-alternatives — https://github.com/ArtemShatokhin/awesome-anythingllm-alternatives — free chat-AI apps; AnythingLLM is Node-based so it can run on this phone (11.7 GB RAM), others may too
 - arthurpanhku/Arthor-Agent — https://github.com/arthurpanhku/Arthor-Agent
 - arthurpanhku/DocSentinel — https://github.com/arthurpanhku/DocSentinel
 - arthurpanhku/DragonMCP — https://github.com/arthurpanhku/DragonMCP
@@ -527,7 +531,7 @@ Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `c
 - davidmosiah/wellness-nourish — https://github.com/davidmosiah/wellness-nourish
 - davila7/claude-code-templates — https://github.com/davila7/claude-code-templates
 - ddukbg/github-enterprise-mcp — https://github.com/ddukbg/github-enterprise-mcp
-- decolua/9router — https://github.com/decolua/9router
+- decolua/9router — https://github.com/decolua/9router — the JavaScript project OmniRoute forked from; also runs on Node here
 - denis-samatov/yandex-workspace-mcp — https://github.com/denis-samatov/yandex-workspace-mcp
 - denoland/deno — https://github.com/denoland/deno
 - denoland/fresh — https://github.com/denoland/fresh
@@ -535,7 +539,7 @@ Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `c
 - DevHusnainAi/zerodom — https://github.com/DevHusnainAi/zerodom
 - devsnek/awesome-acode-plugins — https://github.com/devsnek/awesome-acode-plugins
 - dhamma-seeker/tripitaka-mcp — https://github.com/dhamma-seeker/tripitaka-mcp
-- diegosouzapw/OmniRoute — https://github.com/diegosouzapw/OmniRoute
+- diegosouzapw/OmniRoute — https://github.com/diegosouzapw/OmniRoute — upstream repo of the gateway installed on this phone
 - dimitar-grigorov/mcp-file-tools — https://github.com/dimitar-grigorov/mcp-file-tools
 - Dissimilis/DirForge — https://github.com/Dissimilis/DirForge
 - dk-liang/Awesome-Segment-Anything — https://github.com/dk-liang/Awesome-Segment-Anything
@@ -618,7 +622,7 @@ Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `c
 - hashicorp/terraform — https://github.com/hashicorp/terraform
 - hashicorp/terraform-mcp-server — https://github.com/hashicorp/terraform-mcp-server
 - healthchainai/HealthChain — https://github.com/healthchainai/HealthChain
-- Hedlen/awesome-segment-anything — https://github.com/Hedlen/awesome-segment-anything
+- Hedlen/awesome-segment-anything — https://github.com/Hedlen/awesome-segment-anything — photo-cutting AI needs a big GPU; NOT usable on this phone
 - hesreallyhim/a-list-of-claude-code-agents — https://github.com/hesreallyhim/a-list-of-claude-code-agents
 - hesreallyhim/awesome-claude-code — https://github.com/hesreallyhim/awesome-claude-code
 - heygen-com/hyperframes — https://github.com/heygen-com/hyperframes
@@ -893,8 +897,8 @@ Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `c
 - mrhrazr/agentic-malware-analysis — https://github.com/mrhrazr/agentic-malware-analysis
 - mrslbt/xendit-mcp — https://github.com/mrslbt/xendit-mcp
 - msaad00/agent-bom — https://github.com/msaad00/agent-bom
-- msitarzewski/agency-agents — https://github.com/msitarzewski/agency-agents
-- msitarzewski/agency-agents-app — https://github.com/msitarzewski/agency-agents-app
+- msitarzewski/agency-agents — https://github.com/msitarzewski/agency-agents — 200+ AI agent personas as plain .md files; install script supports OpenCode (OPENCODE_AGENTS_DIR); text-only so runs fine here as reference/agent ideas
+- msitarzewski/agency-agents-app — https://github.com/msitarzewski/agency-agents-app — desktop app (Win/Mac/Linux) for browsing/installing those personas; NOT for this phone
 - mshegolev/gitlab-ci-mcp — https://github.com/mshegolev/gitlab-ci-mcp
 - mukul975/Anthropic-Cybersecurity-Skills — https://github.com/mukul975/Anthropic-Cybersecurity-Skills
 - nborwankar/awesome-mcp-servers-2 — https://github.com/nborwankar/awesome-mcp-servers-2
@@ -957,7 +961,7 @@ Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `c
 - phodal/aigc — https://github.com/phodal/aigc
 - PhungXuanAnh/selenium-mcp-server — https://github.com/PhungXuanAnh/selenium-mcp-server
 - pibblokto/cert-manager-mcp-server — https://github.com/pibblokto/cert-manager-mcp-server
-- pinkbubblebubble/awesome-agentic-anything — https://github.com/pinkbubblebubble/awesome-agentic-anything
+- pinkbubblebubble/awesome-agentic-anything — https://github.com/pinkbubblebubble/awesome-agentic-anything — list of AI agent systems; good for picking agent ideas that can run as small Node/CLI tools here
 - playwright-community — https://github.com/playwright-community
 - pnpm/pnpm — https://github.com/pnpm/pnpm
 - PostHog/posthog — https://github.com/PostHog/posthog
@@ -991,14 +995,14 @@ Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `c
 - remarkjs/remark — https://github.com/remarkjs/remark
 - remix-run/remix — https://github.com/remix-run/remix
 - remotion-dev/skills — https://github.com/remotion-dev/skills
-- Renumics/awesome-anything2vec — https://github.com/Renumics/awesome-anything2vec
+- Renumics/awesome-anything2vec — https://github.com/Renumics/awesome-anything2vec — sensor-to-numbers tools, industrial Python; not useful here
 - replicate/cog — https://github.com/replicate/cog
 - replicate/replicate-python — https://github.com/replicate/replicate-python
 - ReviewGate/reviewgate — https://github.com/ReviewGate/reviewgate
 - rm-rf-prod/GroundTruth-MCP — https://github.com/rm-rf-prod/GroundTruth-MCP
 - rollup/rollup — https://github.com/rollup/rollup
 - rome/tools — https://github.com/rome/tools
-- router-for-me/CLIProxyAPI — https://github.com/router-for-me/CLIProxyAPI
+- router-for-me/CLIProxyAPI — https://github.com/router-for-me/CLIProxyAPI — the Go original that started the whole idea; Go means NOT installable here (no compiler), reference only
 - run-llama/llama_index — https://github.com/run-llama/llama_index
 - run-llama/llama-index-core — https://github.com/run-llama/llama-index-core
 - rust-lang/rust — https://github.com/rust-lang/rust
@@ -1043,7 +1047,7 @@ Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `c
 - sveltejs/svelte — https://github.com/sveltejs/svelte
 - swc-project/swc — https://github.com/swc-project/swc
 - swiftnodes/swiftnodes-mcp — https://github.com/swiftnodes/swiftnodes-mcp
-- szrlee/awesome-learning-to-do-anything — https://github.com/szrlee/awesome-learning-to-do-anything
+- szrlee/awesome-learning-to-do-anything — https://github.com/szrlee/awesome-learning-to-do-anything — 2018 paper list, stale; skip
 - t3-oss/t3-env — https://github.com/t3-oss/t3-env
 - tailwindlabs/tailwindcss — https://github.com/tailwindlabs/tailwindcss
 - TamiShaks-2/git-context-mcp — https://github.com/TamiShaks-2/git-context-mcp
@@ -1071,7 +1075,7 @@ Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `c
 - upstash/context7 — https://github.com/upstash/context7
 - v0dev/v0 — https://github.com/v0dev/v0
 - vadimdemedes/ink — https://github.com/vadimdemedes/ink
-- VainF/Awesome-Anything — https://github.com/VainF/Awesome-Anything
+- VainF/Awesome-Anything — https://github.com/VainF/Awesome-Anything — big list of general AI methods; browser-browse only, not runnable here
 - Val7h/dados-b3-mcp — https://github.com/Val7h/dados-b3-mcp
 - vercel-labs/agent-skills — https://github.com/vercel-labs/agent-skills
 - vercel-labs/skills — https://github.com/vercel-labs/skills
@@ -1114,3 +1118,905 @@ Find anything with Ctrl+F. Try: `mcp`, `skill`, `agent`, `provider`, `model`, `c
 - zsxh1990/pr-genius — https://github.com/zsxh1990/pr-genius
 - zw008/VMware-NSX — https://github.com/zw008/VMware-NSX
 - Zydanny/x402-intel-engine — https://github.com/Zydanny/x402-intel-engine
+
+---
+
+# Notes, search log and research
+
+Everything that used to live in MOBILE-USEFUL.md, SEARCHED.md and research/*.md is
+folded in below (2026-10-22), so this file is the only thing to search. The flat list
+above stays the list; everything else is context for it.
+
+## Mobile-useful notes
+
+# Mobile-useful notes
+
+**Purpose:** After every search, anything found that could actually be used on this
+phone (Android 16, Alpine aarch64, no gcc, no Docker, terminal-only) goes here —
+one line per item, plain language, with a link. Note what works and what does not.
+
+---
+
+## Anything × Awesome search (2026-10-13)
+
+- pinkbubblebubble/awesome-agentic-anything (github) — list of AI agent systems; good for picking agent ideas that can run as small Node/CLI tools here — https://github.com/pinkbubblebubble/awesome-agentic-anything
+- ArtemShatokhin/awesome-anythingllm-alternatives (github) — free chat-AI apps; AnythingLLM is Node-based so it can run on this phone (11.7 GB RAM), others may too — https://github.com/ArtemShatokhin/awesome-anythingllm-alternatives
+- VainF/Awesome-Anything (github) — big list of general AI methods; browser-browse only, not runnable here — https://github.com/VainF/Awesome-Anything
+- Segment Anything (SAM) repos (10) — photo-cutting AI needs a big GPU; NOT usable on this phone — https://github.com/Hedlen/awesome-segment-anything
+- Renumics/awesome-anything2vec — sensor-to-numbers tools, industrial Python; not useful here — https://github.com/Renumics/awesome-anything2vec
+- szrlee/awesome-learning-to-do-anything — 2018 paper list, stale; skip — https://github.com/szrlee/awesome-learning-to-do-anything
+- msitarzewski/agency-agents — 200+ AI agent personas as plain .md files; install script supports OpenCode (OPENCODE_AGENTS_DIR); text-only so runs fine here as reference/agent ideas — https://github.com/msitarzewski/agency-agents
+- msitarzewski/agency-agents-app — desktop app (Win/Mac/Linux) for browsing/installing those personas; NOT for this phone — https://github.com/msitarzewski/agency-agents-app
+
+## AI models by capability (2026-10-13)
+
+- models-researched-ranked.md — researched ranking of all 43 models your OmniRoute gateway knows (21 real families), grouped by capability: coding, reasoning, agents, vision, cyber, science, value — file: /sdcard/Documents/opencode-catalog/research/models-researched-ranked.md
+- Cheapest good daily pick here: mimo-v2.6-pro (open, $0.44/$0.87) — reachable via OmniRoute gateway on this phone
+- Best all-rounders here: gpt-6-astra, claude-opus-5.5, claude-fable-5.1 — all cloud, used through OmniRoute, no local run
+- None of these run on the phone itself; they are API models (no GPU here) — used via the OmniRoute gateway
+
+## OmniRoute origin (2026-10-14)
+
+- OmniRoute (v3.8.51, installed here) — AI gateway: one endpoint in front of ~358 providers with auto-fallback. Origin: a TypeScript fork of 9Router, which is a JS port of the Go project CLIProxyAPI. Runs fine on this phone as Node/Next.js on port 20128; skip the heavy ONNX LLMLingua-2 engine, prefer RTK/Caveman/Lite. As of 2026-10-14 it answers through GitHub Copilot (OAuth, no key pasting: omniroute oauth start --provider copilot --no-browser) with tool calling, and its OpenCode plugin exposes ~500 live models. Full notes: research/omniroute-origin.md
+- diegosouzapw/OmniRoute — upstream repo of the gateway installed on this phone — https://github.com/diegosouzapw/OmniRoute
+- decolua/9router — the JavaScript project OmniRoute forked from; also runs on Node here — https://github.com/decolua/9router
+- router-for-me/CLIProxyAPI — the Go original that started the whole idea; Go means NOT installable here (no compiler), reference only — https://github.com/router-for-me/CLIProxyAPI
+
+## Uncensored models (2026-10-14)
+
+- No uncensored chat model is built into the gateway. The only NSFW entries are 164 AI Horde image checkpoints (not chat). Details: research/uncensored-models.md
+- UncloseAI / Hermes (provider alias unc, free, no key) — the one uncensored-ish chat route that works here. Live id turboderp/Qwen3.8-27B-exl3, called as unc/turboderp/Qwen3.8-27B-exl3 on the gateway. Verified answering. The id shipped in the catalog (Lorbus/Qwen3.6-27B-int4-AutoRound) is stale and 404s; the provider is passthrough so the new id still works. It is a reasoning model (set chat_template_kwargs.enable_thinking=false) and rate-limits (429) when busy. Endpoint: https://hermes.ai.unturf.com/v1/models
+- Need a key for real uncensored models: venice (Venice.ai), uc-direct (uncensored.com), nous-research (Hermes), openrouter (abliterated community models). Add with omniroute providers add <id> --credential-stdin.
+- Local uncensored model: not feasible without work (no GPU, no compiler, ~3 GB free RAM). A no-compiler path exists (llamafile + a 3-4B GGUF, ~2 GB), tight but possible.
+
+## What actually answers on this phone (2026-10-14)
+
+- Only DuckDuckGo web chat is free and working here: the 6 ddgw/* models (in OpenCode as omniroute/ddgw/...). Fast (1-2 s) and keyless, but NO tool calling and it rate-limits fast.
+- Pollinations now needs a free key (its models were free before): get one at https://enter.pollinations.ai/keys then run: omniroute providers add pollinations --credential-stdin
+- llm7 free tier is out of credits ("402 credits exhausted"); its live model list is https://api.llm7.io/v1/models (the model names shown in the app are stale).
+- Easiest free keys that work on this device: Groq https://console.groq.com/keys , Google AI Studio https://aistudio.google.com/apikey , Cloudflare Workers AI https://developers.cloudflare.com/workers-ai/ , OpenRouter https://openrouter.ai/keys
+- Add any key with: omniroute providers add <id> --credential-stdin  (paste the key, press Ctrl-D). Models then appear in OpenCode after "opencode reload".
+- New combo model "free-all" was added: it fails over across the 6 ddgw models so there is one dependable free chat entry.
+
+## REAL fix: OmniRoute makes the key itself (2026-10-14)
+
+- You were right: OmniRoute creates the credential itself. Command: "omniroute oauth start --provider copilot --no-browser" prints a code and https://github.com/login/device . Approve it on the phone and the GitHub Copilot connection is created and stored by OmniRoute. Nothing is pasted.
+- That single login unlocked 93 models: Claude (Sonnet 5, Haiku 4.5), GPT-5.x, GPT-4o, Gemini 3.x, Grok 4.5, MAI-Code, Kimi. They appear in OpenCode as omniroute/gh/... and TOOL CALLING works (verified).
+- Caveat: the list is wider than what the account is entitled to. claude-opus-5, claude-opus-4.8, claude-sonnet-4.5 and gpt-5.5 answer "model_not_supported"; gemini-3.1-pro-preview, gemini-3.6-flash and kimi-k2.7-code say "not available for integrator". Copilot also rate-limits per model ("429 ... cooling down"), so do not fire many parallel calls.
+- Verified answering here: gh/claude-haiku-4.5, gh/claude-sonnet-5, gh/gpt-5.6-luna, gh/gpt-5.4, gh/gpt-4o-2024-11-20, gh/grok-4.5, gh/gemini-3.7-flash, gh/mai-code-1.1-flash (about 1.5-6 s each).
+- New combo model "best" = priority failover over those working Copilot models, so there is one dependable entry that answers.
+- Other providers OmniRoute can log into for you (same idea, no pasted key): gemini, antigravity, claude-code (browser flow), codex (callback), kiro (google/github social), cursor and zed (import from local config). List them with: omniroute oauth providers
+- The DuckDuckGo option (free-all, 6 models, no tool calling) still works as a fallback if Copilot is rate-limited.
+
+## Search log
+
+# SEARCHED — what has been searched already
+
+**Purpose:** The Scout checks this first, so it never searches the same thing twice.
+Add one line after every search: date | what | result.
+
+---
+
+2026-10-13 | GitHub repos named "anything" + "awesome" | 24 found, 19 saved, 5 skipped -> research/anything-awesome.md
+2026-10-13 | GitHub repos "agent agency" | 746 matches; top msitarzewski/agency-agents (159k stars, OpenCode-supported); saved 2, translations+clones skipped -> research/agency-agents.md
+
+## Research
+
+### research/agency-agents.md
+
+# GitHub search: "agent agency" in repos (2026-10-13)
+
+Search: `agent agency in:name` on GitHub → **746 matches**.
+Checked the top by stars + content. Rule followed: never judge by name, check the real content.
+
+## Saved to catalog (2)
+
+### msitarzewski/agency-agents (159,666 stars) — https://github.com/msitarzewski/agency-agents
+- "The Agency" — a library of **200+ ready-made AI agent personas** (frontend wizards, Reddit community ninjas, reality checkers, and more).
+- Each persona is a plain `.md` file with: identity/personality, mission, workflows, deliverable examples, success metrics.
+- Organized in divisions: `engineering/`, `academic/`, `design/`, marketing, sales, security, etc. (`divisions.json`).
+- License: MIT.
+- **Works with OpenCode**: `./scripts/install.sh --tool opencode`, env var `OPENCODE_AGENTS_DIR`. Also Claude Code, Cursor, Codex, Gemini CLI, Qwen, and more (20 tools).
+- ⚠️ The script notes OpenCode only loads ~119 agents without silently dropping some (upstream OpenCode #27988) — so pick personas, don't install all 200+.
+- **On this phone**: text-only (.md + bash scripts), no GPU needed → usable. Best use: read personas as ideas / copy the few that fit the existing scout-technician-dispatcher-inspector-auditor set, and adapt them to OpenCode V2 frontmatter (`description` + `mode`) in `~/.config/opencode/agents/`.
+
+### msitarzewski/agency-agents-app (712 stars) — https://github.com/msitarzewski/agency-agents-app
+- Desktop app (macOS / Linux / Windows) to browse the roster and one-click install into tools.
+- **NOT for this phone** (no Android build). The scripts in the main repo are the phone-friendly path.
+
+## Skipped (dedupe / not useful)
+- Translations/fork families of the same content: `jnMetaCode/agency-agents-zh` (21k stars), pt-BR, ko, ru, id, cn variants → same content, not unique.
+- `Anas-Khan93/ai-agency-agents` (537 stars) — "Open Agency" AI workforce; different project → could add later if wanted.
+- `keeply-cn/agency-agents-zh`, `Aura-huang/agency-agents-cn`, `leeknowsai/paperclip-agency-agents` (a Minecraft plugin!), etc. — niche/derivative.
+
+## Next step idea (needs user y/n)
+- Use agency-agents as a **persona idea source for the phone's agent set**: technician could convert a small pick (`--tool opencode`) into a temp dir, verify the output format fits OpenCode V2, then manually add 1–2 hand-picked personas (e.g. a "design" or "marketing" persona) as new agents — with user approval.
+
+### research/anything-awesome.md
+
+# Anything × Awesome — GitHub research
+
+**Date:** 2026-10-13
+**What I did:** Searched GitHub for repos whose NAME has BOTH words "anything" and "awesome".
+24 repos matched the name. I read the real README of all 24 (not just the name).
+**Result:** 19 saved to the catalog, 5 skipped. All 24 are alive (none deleted).
+
+## The 19 saved — what their content actually is
+
+### Group 1: Segment Anything (SAM) — picture-cutting AI, 10 repos
+Meta made a model that cuts out objects in photos ("Segment Anything").
+These 10 repos are lists of papers and projects about it. All are for research,
+not for running on this phone (they need a big GPU).
+
+| Repo | Stars | Real content |
+|---|---|---|
+| Hedlen/awesome-segment-anything | 1,701 | List of SAM papers and projects |
+| liliu-avril/Awesome-Segment-Anything | 1,225 | First full survey of SAM |
+| Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything | 371 | SAM papers + code links |
+| JerryX1110/awesome-segment-anything-extensions | 349 | SAM add-ons and related projects |
+| dk-liang/Awesome-Segment-Anything | 131 | SAM links list |
+| czg1225/Awesome-Efficient-Segment-Anything | 127 | Fast/light SAM models |
+| AxDante/awesome-segment-anything-medical-images | 50 | SAM for doctor images |
+| ChaoningZhang/Awesome-segment-anything-model | 10 | SAM model stuff |
+| lychees/Awesome-Segment-Anything | 6 | Small SAM list |
+| L-AILab/Awesome-Segment-Anything | 1 | Another SAM list |
+
+### Group 2: "Awesome Anything" general AI lists, 3 repos
+| Repo | Stars | Real content |
+|---|---|---|
+| VainF/Awesome-Anything | 1,863 | Big list of "general AI" methods — AnyObject, AnyTask, AnyX |
+| Renumics/awesome-anything2vec | 25 | List of tools that turn machine sensor data into numbers |
+| szrlee/awesome-learning-to-do-anything | 0 | Old (2018) list of "learning to learn" papers |
+
+### Group 3: LLM / AI-assistant stuff, 2 repos (most useful for this setup)
+| Repo | Stars | Real content |
+|---|---|---|
+| pinkbubblebubble/awesome-agentic-anything | 1 | List of "agentic" AI systems — agents for any job |
+| ArtemShatokhin/awesome-anythingllm-alternatives | 0 | List of free open-source chat-AI apps like AnythingLLM and Kortix |
+
+### Group 4: Personal bookmark lists, 4 repos
+| Repo | Stars | Real content |
+|---|---|---|
+| einblatt/awesome-anything | 0 | Personal list of links for many topics |
+| tisou1/awesome-anything | 0 | List of desktop apps (Chinese) |
+| alfonzm/awesome-anything | 1 | Personal "things I like" list |
+| pythonbarath/Good-Sites-Awesome-Collection-Of-Useful-Websites-Get-Almost-anything | 1 | List of handy websites |
+
+## Skipped (5) — why
+
+| Repo | Reason skipped |
+|---|---|
+| rezarzky/AnythingAwesome | No README — could not check content |
+| zhutoutoutousan/awesome-vibe-anything | Joke repo ("vibe anything"), not real tools |
+| enhansome/enhansome-Awesome-Anything | Duplicate — same list as VainF/Awesome-Anything, just re-printed |
+| MatheusHAS/my-awesome-study-about-anything | A NestJS coding project, not a list |
+| call-me-anything-you-want/awesome-llm-es | No README — could not check content |
+
+### research/models-by-capability.md
+
+# Models by capability - ranked highest to lowest
+
+Source: OmniRoute `model_intelligence` table (arena ELO data), synced from the gateway.
+43 models, 5 capability buckets. Rank 1 is the strongest.
+
+- Score = normalized fitness, 0.00 to 1.00, for that capability.
+- ELO = raw arena rating (higher is stronger).
+- Names are the original model names as OmniRoute records them.
+
+Note: OmniRoute only separates Coding from the rest in this dataset, so Review,
+Debugging, Documentation and General share one ranking. The five buckets are:
+coding, review, debugging, documentation, default (general).
+
+---
+
+## Coding (25 models)
+
+| # | Model | Score | ELO |
+|---|-------|-------|-----|
+| 1 | claude-opus-5.5-max | 0.980 | 1814 |
+| 2 | gpt-6-astra | 0.900 | 1788 |
+| 3 | gpt-6-astra-max | 0.900 | 1788 |
+| 4 | claude-sonnet-5.5-xhigh | 0.854 | 1773 |
+| 5 | gpt-6.1-sol-max | 0.804 | 1757 |
+| 6 | claude-fable-5.1-max | 0.767 | 1745 |
+| 7 | claude-sonnet-5.5-high | 0.678 | 1716 |
+| 8 | claude-opus-5 | 0.604 | 1692 |
+| 9 | claude-opus-5-max | 0.604 | 1692 |
+| 10 | gpt-6-sol | 0.588 | 1687 |
+| 11 | gpt-6-sol-max | 0.588 | 1687 |
+| 12 | gemini-4-argon-high | 0.560 | 1678 |
+| 13 | qwen3.8-max | 0.542 | 1672 |
+| 14 | qwen3.8-max-0902 | 0.542 | 1672 |
+| 15 | claude-opus-5-high | 0.499 | 1658 |
+| 16 | muse-spark-1.3 | 0.493 | 1656 |
+| 17 | muse-spark-1.3-max | 0.493 | 1656 |
+| 18 | kimi-k3 | 0.489 | 1655 |
+| 19 | kimi-k3-max | 0.489 | 1655 |
+| 20 | grok-4.7 | 0.437 | 1638 |
+| 21 | grok-4.7-xhigh | 0.437 | 1638 |
+| 22 | mimo-v2.6-flash | 0.431 | 1636 |
+| 23 | hy4-preview | 0.418 | 1632 |
+| 24 | qwen3.8-flash-next | 0.418 | 1632 |
+| 25 | mimo-v2.6-pro | 0.412 | 1630 |
+
+## Review / Debugging / Documentation / General (27 models, one shared ranking)
+
+| # | Model | Score | ELO |
+|---|-------|-------|-----|
+| 1 | gemini-4-argon-high | 0.980 | 1525 |
+| 2 | claude-opus-4-6 | 0.697 | 1505 |
+| 3 | claude-opus-4-6-high | 0.697 | 1505 |
+| 4 | claude-fable-5 | 0.683 | 1504 |
+| 5 | claude-fable-5-high | 0.683 | 1504 |
+| 6 | claude-opus-5.5-high | 0.683 | 1504 |
+| 7 | claude-fable-5.1-max | 0.640 | 1501 |
+| 8 | claude-opus-4-7 | 0.640 | 1501 |
+| 9 | claude-opus-4-7-high | 0.640 | 1501 |
+| 10 | gemini-3.8-flash | 0.556 | 1495 |
+| 11 | gemini-3.8-flash-high | 0.556 | 1495 |
+| 12 | muse-spark-1.2 | 0.541 | 1494 |
+| 13 | muse-spark-1.3 | 0.541 | 1494 |
+| 14 | muse-spark-1.3-max | 0.541 | 1494 |
+| 15 | muse-spark-1.1 | 0.499 | 1491 |
+| 16 | claude-opus-5 | 0.485 | 1490 |
+| 17 | claude-opus-5-high | 0.485 | 1490 |
+| 18 | claude-opus-5-max | 0.471 | 1489 |
+| 19 | muse-spark | 0.471 | 1489 |
+| 20 | gemini-3.7-flash | 0.457 | 1488 |
+| 21 | gemini-3.7-flash-high | 0.457 | 1488 |
+| 22 | kimi-k3 | 0.457 | 1488 |
+| 23 | kimi-k3-max | 0.457 | 1488 |
+| 24 | gemini-3.1-pro-preview | 0.442 | 1487 |
+| 25 | gemini-3-pro | 0.414 | 1485 |
+| 26 | gpt-5.6-sol | 0.400 | 1484 |
+| 27 | gpt-5.6-sol-xhigh | 0.400 | 1484 |
+
+---
+
+Empty buckets in the table: planning, analysis. No models ranked there yet.
+
+### research/models-researched-ranked.md
+
+# AI models - what each one is good at, researched and ranked
+
+Researched 2026-10-13 by checking each maker's own pages and 2026 benchmark writeups.
+
+## Read this first
+
+- Your OmniRoute gateway lists **43 model names**, but they are really **21 model families**.
+- Names ending in `-high`, `-xhigh` or `-max` are the **same model** run at a higher
+  "thinking effort" (it reasons more, so it is slower and costs more). The plain name is
+  the default effort. Example: `claude-opus-5`, `claude-opus-5-high` and `claude-opus-5-max`
+  are all Claude Opus 5.
+- "Rank" below means **best to worst for that one skill**. The top few are close and can
+  swap places depending on the exact task. These are cloud models; on this phone you reach
+  them through OmniRoute, not by running them.
+
+---
+
+## Part 1 - The 21 families behind the 43 names
+
+| Family (original names) | Maker | Out | Context | Price in/out per 1M | Best at |
+|---|---|---|---|---|---|
+| claude-fable-5, -high, claude-fable-5.1-max | Anthropic | Apr 2026 / 5.1 Aug 30 2026 | 1M | $10 / $50 | Anthropic's top GA model; hardest coding + long autonomous runs |
+| claude-opus-4-6, -high | Anthropic | Feb 5 2026 | 1M | $5 / $25 | Early-2026 flagship; agentic coding + deep reasoning |
+| claude-opus-4-7, -high | Anthropic | Apr 16 2026 | 1M | $5 / $25 | Added xhigh effort and much better vision |
+| claude-opus-5, -high, -max | Anthropic | Jul 24 2026 | 1M | $5 / $25 | Near-Fable intelligence at half the price; SOTA coding |
+| claude-opus-5.5, -high, -max | Anthropic | 2026 | 1M | $4 / $20 | Newest Opus; leads agentic coding, computer use, prompt-injection defence |
+| claude-sonnet-5.5, -high, -xhigh | Anthropic | Sep 28 2026 | 1M | $2 / $10 | Best speed-for-intelligence; 30% faster, cheaper |
+| gpt-5.6-sol, -xhigh | OpenAI | Jul 9 2026 | 1.05M | $4 / $20 | GPT-5.6 flagship; set the coding-agent record at launch |
+| gpt-6-astra, -max | OpenAI | Sep 3 2026 | 1.05M | $10 / $50 | OpenAI's most intelligent model; best computer use |
+| gpt-6-sol, -max | OpenAI | Sep 22 2026 | 1.05M | $2 / $10 | Cost-efficient high end, just below Astra |
+| gpt-6.1-sol, -max | OpenAI | Sep 29 2026 | 1.05M | $2 / $10 | Near-Astra agentic work at one-fifth the price |
+| gemini-3-pro | Google | Nov 18 2025 | 1M | $1 / $6 | Gemini 3 foundation; now legacy/cheap |
+| gemini-3.1-pro-preview | Google | Feb 19 2026 | 1M | $2 / $12 | Frontier reasoning and agentic coding |
+| gemini-3.7-flash, -high | Google | Aug 13 2026 | 1M | $0.75 / $3.75 | Everyday coding + agents, low cost |
+| gemini-3.8-flash, -high | Google | Sep 9 2026 | 1M | $0.75 / $3.75 | Google's best Flash; beats Opus 5 on some tests |
+| gemini-4-argon-high | Google | 2026 | 1M | (gated) | Frontier long-horizon reasoning, coding, science, cyber |
+| grok-4.7, -xhigh | xAI | Sep 21 2026 | 500K | $2 / $6 | Coding + agents, best at checking its own work |
+| kimi-k3, -max | Moonshot | Jul 16 2026 | 1M | open weights | Biggest open model (2.8T); agentic coding |
+| hy4-preview | Tencent | Aug 26 2026 | 1M | $0.83 / $2.50 | Open 770B; coding, office work, research |
+| qwen3.8-max, qwen3.8-max-0902, qwen3.8-flash-next | Alibaba | Aug 3 2026 | 1M | $2 / $6 | Best open multimodal; document and OCR leader |
+| mimo-v2.6-pro, mimo-v2.6-flash | Xiaomi | Sep 22 2026 | 1M | $0.44 / $0.87 | Strongest open model for the money |
+| muse-spark, muse-spark-1.1, -1.2, -1.3, -1.3-max | Meta | Apr-Sep 2026 | 1M | $1.25 / $4.25 | Multimodal agentic + coding |
+
+Note: `-preview` means the maker still labels it a test build.
+
+---
+
+## Part 2 - Ranked by capability (best at top)
+
+### A. Coding and software engineering
+
+1. gpt-6-astra (max) - OpenAI's flagship; tops coding and computer-use tests
+2. claude-opus-5.5 (max) - Anthropic's newest; leads agentic coding
+3. claude-fable-5.1 (max) - Anthropic's most capable; ambitious multi-day coding
+4. gpt-6.1-sol (max) - nearly matches Astra on agentic coding, one-fifth the price
+5. claude-opus-5 (max) - SOTA on Frontier-Bench (43.3%) and near-Fable on CursorBench
+6. gpt-5.6-sol (xhigh) - set the coding-agent index record (80) at launch
+7. kimi-k3 (max) - open weights, competitive with Fable 5 on coding
+8. gemini-4-argon (high) - Google's frontier; excelling at long-horizon code
+9. muse-spark-1.3 (max) - Meta; #1 on a key agentic-work benchmark
+10. gpt-6-sol (max) - cost-efficient high end, long-horizon work in real repos
+11. grok-4.7 (xhigh) - built for coding; default model in xAI's coding tool
+12. qwen3.8-max - open; top-3 on Terminal Bench 2.1 and SWE-Bench Pro
+13. mimo-v2.6-pro - open; Terminal Bench 2.1 (89.9) beats Opus 5 (89.1)
+14. gemini-3.8-flash (high) - best agentic coding Google has shipped
+15. hy4-preview - open 770B; beats GLM 5.3 and Kimi K3 in Tencent's own blind test
+16. claude-sonnet-5.5 (xhigh) - 70.6% on Terminal-Bench 4.0 (Sonnet 5 was 10.3%)
+17. claude-opus-4.7 (high) - CursorBench ~70% vs 4.6's 58%
+18. claude-opus-4-6 (high) - 2026's early coding leader
+19. gemini-3.7-flash (high) - FrontierCode 43.6%, DeepSWE 65.3%
+20. gemini-3.1-pro-preview - solid, older frontier
+21. gemini-3-pro - legacy; use only if it is all you have
+
+### B. Reasoning and knowledge work
+
+1. gpt-6-astra (max) - "most intelligent model in the world" per OpenAI
+2. claude-fable-5.1 (max) - Mythos-class deep reasoning
+3. claude-opus-5.5 (max) - leads knowledge work too
+4. gpt-6.1-sol (max) - near-Astra at a fraction of the cost
+5. claude-opus-5 (max) - GDPval-AA 1861, top of that chart
+6. gemini-4-argon (high) - deep multi-step long-horizon reasoning
+7. gpt-5.6-sol (xhigh) - strong reasoning, cheaper
+8. kimi-k3 (max) - frontier reasoning in open weights
+9. muse-spark-1.3 (max) - Meta's top reasoning variant
+10. gemini-3.8-flash (high) - HLE-Verified 54.9%
+11. qwen3.8-max - strong on analysis + documents
+12. mimo-v2.6-pro - top open model on the intelligence index (46)
+13. grok-4.7 (xhigh) - better self-checking, longer documents
+14. hy4-preview - good general reasoning, very cheap
+15. claude-sonnet-5.5 (xhigh) - near-Opus on everyday work
+16. gemini-3.1-pro-preview - older frontier
+17. claude-opus-4.7 (high) - 2026 mid-year
+18. claude-opus-4-6 (high) - 2026 early
+19. gemini-3.7-flash (high) - workhorse
+20. gemini-3-pro - legacy
+
+### C. Computer use and autonomous agents
+
+1. gpt-6-astra (max) - best-in-class computer use
+2. claude-opus-5.5 (max) - strong agentic + safest in a sandbox
+3. gpt-6.1-sol (max) - near-Astra on OSWorld 2.0
+4. claude-fable-5.1 (max) - long autonomous sessions
+5. muse-spark-1.3 (max) - #1 on a key agentic benchmark
+6. claude-opus-5 (max) - strong long multi-step work
+7. gemini-4-argon (high) - long-horizon autonomy
+8. kimi-k3 (max) - sustains long engineering sessions with little oversight
+9. gpt-5.6-sol (xhigh) - good agents, cheaper
+10. grok-4.7 (xhigh) - agentic, Grok Build default
+11. qwen3.8-max - good tool/agent use
+12. mimo-v2.6-pro - OSWorld-Verified 82.0
+13. gemini-3.8-flash (high) - Google agentic workhorse
+14. claude-sonnet-5.5 (xhigh) - everyday agents
+15. hy4-preview - tool-using workflows
+
+### D. Vision and multimodal (images, video, audio, documents)
+
+1. gemini-4-argon (high) - Google's native multimodal frontier
+2. qwen3.8-max - best OCR / document / visual reasoning in tests
+3. gemini-3.8-flash (high) - text, image, video, audio, PDF in one
+4. gpt-6-astra (max) - image in, strong visual + computer use
+5. mimo-v2.6-pro - true omni-modal (text, image, video, audio)
+6. claude-opus-5.5 (max) / claude-fable-5.1 (max) - image input, strong charts + screenshots
+7. muse-spark-1.3 (max) - image, video, audio, PDF
+8. kimi-k3 (max) - natively multimodal
+9. claude-opus-4.7 (high) - big vision upgrade over 4.6
+10. gemini-3.1-pro-preview - strong but older
+
+### E. Cybersecurity (defensive / dual-use)
+
+These makers deliberately gate or weaken offensive cyber, so "best" is about defence.
+
+1. gpt-6-astra (max) - OpenAI rates it Critical; gated behind trusted access
+2. gpt-6.1-sol (max) - also Critical; ExploitBench 99.7% at max effort
+3. gpt-5.6-sol (xhigh) - OpenAI's first "strongest cyber" model
+4. gemini-4-argon (high) / gemini-3.8-flash-cyber - Google Fairwind programme
+5. grok-4.7 (xhigh) - improves defender tasks; biosafety lead (LatchBio 62.4%)
+6. claude-opus-5.5 (max) - Anthropic weakens risky cyber on purpose; best safeguards
+
+### F. Math and science research
+
+1. gpt-6-astra (max) - solved 10 human-level math problems, Lean-verified proofs
+2. claude-fable-5.1 (max) / claude-opus-5.5 (max) - biology, drug design, science
+3. gemini-4-argon (high) - built for deep professional + scientific work
+4. kimi-k3 (max) - strong reasoning, cheap for the class
+5. qwen3.8-max - wins PaperBench (reproducing research from scratch)
+6. hy4-preview - strong on physics, math, molecular simulation
+
+### G. Best value for this phone (quality per dollar)
+
+Cheap and fast matters here, because every call goes out over the network.
+
+1. mimo-v2.6-pro - top open model at ~$0.44 in / $0.87 out
+2. gemini-3.8-flash (high) - near-frontier at $0.75 / $3.75
+3. hy4-preview - open 770B at $0.83 / $2.50
+4. gpt-6.1-sol (max) - near-Astra at $2 / $10
+5. claude-sonnet-5.5 (high) - $2 / $10, fast
+6. grok-4.7 (high) - $2 / $6
+7. muse-spark-1.3 (xhigh) - $1.25 / $4.25
+8. qwen3.8-max - $2 / $6, best documents
+9. kimi-k3 - cheap flagship, open weights
+10. gemini-3.7-flash (high) - $0.75 / $3.75, fine for everyday
+
+### H. Raw power, price ignored
+
+1. gpt-6-astra
+2. claude-fable-5.1
+3. claude-opus-5.5
+4. gpt-6.1-sol
+5. claude-opus-5
+6. gemini-4-argon
+7. gpt-5.6-sol
+8. kimi-k3
+9. muse-spark-1.3
+10. gemini-3.8-flash
+11. qwen3.8-max
+12. mimo-v2.6-pro
+13. grok-4.7
+14. hy4-preview
+15. claude-sonnet-5.5
+16. claude-opus-4.7
+17. claude-opus-4.6
+18. gemini-3.7-flash
+19. gemini-3.1-pro-preview
+20. gemini-3-pro
+
+---
+
+## Part 3 - What this means on this phone
+
+- The gateway's own table (the old `models-by-capability.md`) only split **coding** from
+  **everything else**, and its top coding pick was `claude-opus-5.5-max`. The research above
+  agrees the top is a small group (Astra, Opus 5.5, Fable 5.1, GPT-6.1 Sol) and adds the
+  other skills (agent, vision, cyber, value) it could not rank.
+- Cheapest good defaults for daily work here: **mimo-v2.6-pro**, **gemini-3.8-flash**,
+  **gpt-6.1-sol**.
+- Strongest all-rounders: **gpt-6-astra**, **claude-opus-5.5**, **claude-fable-5.1**.
+
+## Sources
+
+- Anthropic: anthropic.com/news/claude-opus-5 , /claude-opus-5-5 , /news/claude-opus-4-7 ,
+  /news/claude-opus-4-6 , /claude-sonnet-5-5 , platform.claude.com/docs/en/models/overview
+- OpenAI: openai.com/index/gpt-6-astra , /introducing-gpt-6-1-sol , /introducing-gpt-6-sol-and-luna ,
+  /previewing-gpt-5-6-sol , deploymentsafety.openai.com/gpt-6-astra
+- Google: blog.google (gemini-3-8-flash, gemini-3-7-flash, gemini-4-argon, gemini-3-1-pro),
+  deepmind.google/models , ai.google.dev/gemini-api/docs/models
+- xAI: x.ai/news/grok-4-7 , docs.x.ai/developers/grok-4-7 , media.x.ai Grok 4.7 model card
+- Moonshot: moonshot.ai , fortune.com/2026/07/16 moonshot-kimi-k3
+- Tencent: tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview ,
+  github.com/Tencent-Hunyuan/Hy4-preview
+- Alibaba: qwen.ai/blog?id=qwen3.8 , vals.ai/models/alibaba_qwen3.8-max
+- Xiaomi: mimo.xiaomi.com/mimo-v2-6 , artificialanalysis.ai/models/mimo-v2-6-pro
+- Meta: dev.meta.ai/models/muse-spark , ai.meta.com/blog/introducing-muse-spark-msl ,
+  artificialanalysis.ai/models/releases/muse-spark-1-3
+
+### research/omniroute-origin.md
+
+# OmniRoute — how it was originally built (origin research)
+
+Researched 2026-10-14 from the GitHub REST API, the npm registry, and the
+installed package at /usr/local/lib/node_modules/omniroute.
+
+## One line
+
+OmniRoute is an MIT AI gateway: one OpenAI-compatible endpoint in front of
+~358 providers. It is the third generation of a lineage — a TypeScript fork of
+9Router, which is a JavaScript port of the Go project CLIProxyAPI.
+
+## Lineage (three generations)
+
+| Gen | Project | Lang | Started | Latest | Stars | Forks | Commits | Releases |
+|-----|---------|------|---------|--------|-------|-------|---------|----------|
+| 1 | router-for-me/CLIProxyAPI | Go | 2025-07-01 (v1.0.0 2025-07-02) | v8.0.27, 2026-10-12 | 55,064 | 8,423 | 4,303 | 889 |
+| 2 | decolua/9router | JavaScript | npm 2026-01-03 / repo 2026-01-05 | v0.5.35, 2026-07-16 (npm 0.5.99) | 30,736 | 5,876 | 1,392 | 72 |
+| 3 | diegosouzapw/OmniRoute | TypeScript | repo 2026-02-13 / npm 0.1.0 2026-02-14 | v3.8.51, 2026-09-30 | 76,052 | 10,982 | 10,418 | 281 |
+
+All three are MIT. Star/commit/release counts are a dated snapshot (2026-10-14)
+and will drift.
+
+## The relationship is stated by the projects themselves
+
+- 9Router README, "Forks" section: "OmniRoute — A full-featured TypeScript fork
+  of 9Router. Adds 36+ providers, 4-tier auto-fallback, multi-modal APIs
+  (images, embeddings, audio, TTS), circuit breaker, semantic cache, LLM
+  evaluations, and a polished dashboard. 368+ unit tests."
+- 9Router README, "Acknowledgments": "CLIProxyAPI — original Go implementation
+  that inspired this JavaScript port."
+- OmniRoute README, "Acknowledgments": "It started as a fork of 9router and a
+  TypeScript port of the Go project CLIProxyAPI."
+
+The shared idea across all three: sit between coding CLIs (Claude Code, Codex,
+Cursor, Cline, Copilot, Gemini CLI, Antigravity, OpenCode, ...) and many
+upstream AI providers, expose one OpenAI-compatible endpoint on port 20128,
+translate between formats (OpenAI / Claude / Gemini / Responses), track quota,
+and auto-fall-back across providers and accounts. 9Router added RTK token
+compression; OmniRoute expanded to 300+ providers, the 12-engine compression
+stack, MCP/A2A, and a full dashboard.
+
+Note: 9Router itself began about six months after CLIProxyAPI, so the Go
+original is the true root of the idea. CLIProxyAPI is still active (v8.0.27,
+2026-10-12). 9Router's last release was 2026-07-16; its momentum moved into
+forks like OmniRoute.
+
+## Origin timeline of OmniRoute itself
+
+- 2026-02-13  GitHub repo created. The repo "fork" flag is false: it is a code
+  rewrite in the spirit of a fork, not a GitHub fork object.
+- 2026-02-14  omniroute@0.1.0 published on npm. Required Node >=18 and ran
+  Next.js dev on port 20128 — the same port used today.
+- 2026-02-14..17  fast 0.x run (0.1.0 -> 0.9.0 in four days).
+- 2026-02-18  v1.0.0 "Intelligent AI Gateway & Universal LLM Proxy": 20+
+  providers, 6 routing strategies, OpenAI/Claude/Gemini/Responses translation,
+  circuit breakers, semantic cache, combo fallback chains, real-time health
+  monitoring, full dashboard, 100% TypeScript, Docker.
+- History note: the early 0.x commits were squashed away. The oldest commit on
+  the current default branch is the v1.0.0 commit (71d14209a, 2026-02-18,
+  300 files, no parent). Only the consolidated v1.0.0 snapshot remains in git
+  history.
+- Later: v2.0.0 on 2026-03-05, v3.0.0 on 2026-03-24, then a rapid 3.x line to
+  v3.8.51. The dev branch is release/v3.8.52, heading to v3.9.0 LTS.
+
+## How the project is built (engineering)
+
+- Runtime: Node.js 22/24 LTS. Language: 100% TypeScript 6.0 (zero any in core
+  since v2.0).
+- Dashboard: Next.js 16 + React 19 + Tailwind CSS 4.
+- Data: better-sqlite3 (SQLite, WAL journaling) plus a LowDB JSON legacy layer.
+  122 domain modules, 193 migrations.
+- The streaming engine is split into its own workspace package,
+  @omniroute/open-sse — provider dispatch, protocol translation, SSE streaming,
+  account fallback, token refresh.
+- Compression: 12 composable engines (Session-Dedup, CCR, Lite, RTK, Responses
+  Tool Output, Headroom/GCF, Relevance, Caveman, Aggressive, LLMLingua-2 ONNX,
+  Ultra, OmniGlyph). Default stacked RTK -> Caveman averages ~89% savings.
+- Protocols: MCP plus A2A; SSE plus a WebSocket bridge.
+- Stealth: wreq-js — JA3/JA4 TLS-fingerprint impersonation, shipped as attested
+  native bindings.
+- Resilience: circuit breaker, exponential backoff, anti-thundering-herd,
+  self-healing auto-combo.
+- Build/release: isolated Next.js build, esbuild/tsup for the CLI, dozens of
+  native/prebuild guards, hundreds of check:* quality-gate scripts with
+  ratchets, and the Node test runner plus Vitest (39,000+ static test
+  declarations across 5,100+ test files). Ships via npm, Docker Hub, an
+  Electron desktop app, a PWA, and Termux/Android.
+
+## On this phone (installed)
+
+- Global npm package: /usr/local/lib/node_modules/omniroute, with symlink
+  /usr/local/bin/omniroute -> bin/omniroute.mjs. Version 3.8.51,
+  BUILD_SHA c1e30b7.
+- Data/config: /public/.omniroute (.env, storage.sqlite, logs/, exports/,
+  server/.pid, shim/lsof).
+- Autostarted by ~/.bashrc plus a watchdog; listens on 127.0.0.1:20128.
+- Ships @omniroute/opencode-plugin(-v2) and the deprecated
+  @omniroute/opencode-provider, which is how it wires into OpenCode here.
+- Bonus: the install bundles an offline JS/TS toolchain under its own
+  node_modules (esbuild 0.28.2, zod 4.6.5, tsx), so you can build JS/TS here
+  without network or a global install. Node 24 also runs .ts directly.
+
+## On this phone — current operational state (2026-10-14)
+
+Folded in from the updated environment notes after the origin research.
+
+- Two OpenCode plugins are loaded: phone-guard (auto-discovered) and
+  omniroute-v2. The latter lives in /public/.opencode/plugins-available/ (not
+  auto-scanned) and loads only via an explicit plugins entry with options. It is
+  a working V2 build of OmniRoute's own @omniroute/opencode-plugin-v2, built
+  2026-10-14 with OmniRoute's bundled esbuild.
+- Effect of that plugin: the OpenCode "omniroute" provider grew from 52
+  hardcoded models to ~500 fetched live from the gateway (505 after a dedupe
+  pass; 542 raw). The number tracks OmniRoute's live catalog, so it drifts.
+- Provider connections right now: github (GitHub Copilot via OAuth) is the one
+  that works; llm7 is credits_exhausted, pollinations is enabled, ovhcloud is
+  banned. The github connection was created 2026-10-14 with
+  "omniroute oauth start --provider copilot --no-browser" (device code — the
+  phone-friendly flow; no key pasting needed).
+- Models verified answering through gh/*: claude-haiku-4.5, claude-sonnet-5,
+  gpt-5.6-luna, gpt-5.4, gpt-4o-2024-11-20, grok-4.5, gemini-3.7-flash,
+  mai-code-1.1-flash. Tool calling works. The advertised list is wider than the
+  account entitlement, and Copilot rate-limits per model, so avoid rapid
+  parallel calls.
+- Two user combos were created 2026-10-14 and are selectable by name: "best"
+  (priority failover across the working Copilot models) and "free-all" (the six
+  keyless ddgw DuckDuckGo models, no tool calling).
+- Auth is asymmetric: REQUIRE_API_KEY=false, yet POST /v1/chat/completions works
+  with no key while GET /v1/models 401s without one. /api/* needs a
+  management-scoped key (the client key "opencode-local" has only self:usage, so
+  /api/* returns 403 AUTH_001). A second key, "opencode-management" (scopes
+  manage + self:usage), was minted 2026-10-14 via the CLI and is the plugin's
+  managementReadToken.
+- When calling the gateway directly, strip OpenCode's provider prefix: send
+  "pol/openai", not "omniroute/pol/openai" (the latter yields a misleading
+  "No active credentials for provider: omniroute").
+- Expected non-error noise: every omniroute CLI run prints ~46 ".env is
+  ignored" lines from .env shadowing.
+
+## Full diagnostics + fallback ladder (2026-10-14)
+
+Checked the whole stack end to end. Green except one dead model entry, now fixed.
+
+Verified working:
+- OpenCode v2.0.28, service up (127.0.0.1:49374), config valid (opencode debug
+  config OK; opencode.jsonc now also parses as strict JSON -- trailing commas
+  removed).
+- Both plugins load: phone-guard (auto-discovered) and omniroute-v2 (loaded by
+  explicit entry with options). phone-guard matcher tests pass.
+- Gateway health ok; watchdog RUNNING (pid tracked); autostart/watchdog/status
+  scripts all pass "sh -n".
+- Models answering: best (claude-sonnet-5), free-all, auto/best-coding and
+  auto/best-chat (now route to gpt-4o-2024-11-20 -- the old "auto combos route
+  to dead llm7" note is stale), gh/claude-haiku-4.5, gh/gpt-5.4,
+  ddgw/gpt-5.4-mini.
+- Disk: 253 GB free on /. State dirs small (tool-output 15.7 MB, log 4.5 MB).
+
+Fixed today:
+- Removed the one hard-dead hardcoded model, llm7/turbo (provider llm7 is
+  credits_exhausted -> "No active credentials for provider: llm7"). It was the
+  source of the recurring gateway error in the logs. It exists ONLY in the
+  hardcoded list, not in the live catalog, so removing it removes it from the
+  picker. Backup: opencode.jsonc.bak-pre-diag-*.
+- Cleaned trailing commas in the plugins options block (v1 strict-parser safety).
+
+Known residual (not a fault):
+- "[400] The requested model is not supported": a session picked an advertised
+  but unentitled Copilot model (e.g. claude-opus-5, gpt-5.5). Copilot advertises
+  more than the account gets. Use the "best" combo or a known-good gh/* model.
+- Memory is the real constraint: ~2 GB available, swap ~8/12 GB used. An
+  Android low-memory kill of OmniRoute is the likely failure mode; the watchdog
+  recovers it in under ~75 s.
+
+Fallback ladder (each layer independent):
+1. A model errors -> OpenCode retry; or switch to "best" (priority failover
+   combo) or "free-all" (keyless ddgw).
+2. The gateway process dies -> omniroute-watchdog.sh restarts it (<= ~75 s); a
+   new terminal also triggers omniroute-autostart.sh.
+3. The gateway is down entirely -> the OpenCode default model is native
+   (opencode/big-pickle) and small_model is native, so chat/coding still work
+   with no gateway.
+4. A config mistake -> six timestamped opencode.jsonc.bak* copies to restore.
+
+## Incident + memory-prevention work (2026-10-14)
+
+### Latent fault found: a damaged install that would have killed the gateway for good
+
+- The running gateway (pid 498, up since 2026-10-13 18:42) was only alive
+  because it had the modules loaded in MEMORY. Between 02:23 and 02:27 that day,
+  114 scoped packages under
+  /usr/local/lib/node_modules/omniroute/node_modules/@* were emptied (only
+  "@scope/name" dirs; every unscoped package stayed intact).
+- ROOT CAUSE (found 2026-10-14 by reading
+  /public/.local/share/opencode/log/opencode.log and the matching shell *.out
+  files). It was NOT an npm run. Building the omniroute-v2 plugin did:
+    02:22:40  ln -sfn /usr/local/lib/node_modules/omniroute/node_modules
+                       /public/.opencode/plugins/omniroute-v2/node_modules
+    02:22:47  rm -f node_modules              (hung)
+    02:25:09  rm -f .../node_modules          (hung; produced NO output)
+    02:27:25  timeout 20 rm -f .../node_modules
+              -> "Terminated ... rm exit=143", symlink STILL present
+    02:27:54  python3 -c "os.unlink(...)"     -> "unlinked", exit 0
+  A plain `rm -f` on that symlink HUNG, and under proot the traversal went INTO
+  the target and deleted package FILES (leaving empty dir skeletons) across
+  02:23-02:27. `rm` never removed the link; only unlink/python3 did. This is the
+  documented AGENTS.md gotcha, and it really did the damage. Lesson: never
+  `ln -s <tree>/node_modules <dir>/node_modules`, and never `rm` such a symlink
+  on this filesystem -- use unlink or python3.
+- Consequence: the gateway ran on until the next restart. Any restart since
+  02:27 died with "Cannot find module '@next/env'" (first in the load order).
+  So the first Android OOM kill after 02:27 would have taken the gateway down
+  for good, with the watchdog looping on a restart that could never work.
+- Repair (all verified this day):
+  1. Fetched @next/env@16.3.5 and @next/swc-linux-arm64-musl@16.3.5 straight
+     from registry.npmjs.org and extracted them in place (damaged dirs moved to
+     /data/data/com.foxdebug.acode/cache/opencode/fix-next/*.damaged). Boot then
+     advanced past @next/env and stopped on @modelcontextprotocol/sdk, proving
+     the damage was wider.
+  2. There is NO package-lock.json, so the rest was restored with
+     "cd /usr/local/lib/node_modules/omniroute && npm install --legacy-peer-deps".
+     Plain "npm install" FAILS with ERESOLVE (peer conflict: marked@18 vs
+     marked-terminal@7 which wants marked<16). --legacy-peer-deps is required.
+     npm reported: added 1721, removed 278, changed 27, in ~7 min, exit 0. It also
+     wrote a package-lock.json (2898 packages), copied to
+     /public/backups/omniroute-npm-lock-20261014/ -- so a future restore can be
+     reproducible with "npm ci --legacy-peer-deps" from that lock.
+  3. npm then left 8 FILE-LESS skeletons (@ant-design/cssinjs, @babel/runtime,
+     @emotion/*, ...). Those are build-time-only for the PREBUILT dashboard, not
+     needed at runtime. Removed them (python shutil.rmtree) -> 0 incomplete dirs.
+- Verified after repair: gateway boots and /api/health = {"status":"ok"} in ~9 s;
+  keyless /v1/chat/completions answers on gh/claude-haiku-4.5 and on the "best"
+  combo (routes to claude-sonnet-5); the dashboard serves (307 from /); both
+  plugins load.
+
+### Prevention added (the host killer itself cannot be changed)
+
+- Host LMK is untouchable from here: ro.lmk.kill_heaviest_task and
+  ro.lmk.use_minfree_levels are read-only props, no adb device is attached,
+  /proc/sys/vm/* is unreadable, our cgroup memory files are absent, and
+  oom_score_adj writes are denied. So the killer cannot be tuned -- the only
+  levers are to stay small and to act before the kill.
+- Heap caps: omniroute-autostart.sh launches the gateway with
+  NODE_OPTIONS="--max-old-space-size=512 --max-semi-space-size=16" (measured RSS
+  ~400 MB, so 384 was raised to 512 to avoid a "JavaScript heap out of memory"
+  crash, while still bounding a runaway; a V8 default on this 11 GB box is
+  2-4 GB). ~/.bashrc exports BUN_JSC_forceRAMSize=1073741824 for the OpenCode
+  (Bun/JSC) processes (best-effort). Backups: *.bak-pre-mem-*.
+- New ~/.config/opencode/bin/memory-guard.sh: polls MemAvailable every 30 s,
+  logs a timeline, WARN below 1000 MB, and below 600 MB restarts the gateway
+  (rate-limited to once per 10 min) to shed heap before the killer fires.
+  Started detached from .bashrc beside the watchdog.
+- autostart verify-window bug fixed: it probed health for only 5x2=10 s but
+  startup takes ~25-30 s, so it always logged "start FAILED" even on success.
+  Now 20x2=40 s.
+- healthcheck.sh now checks dependency integrity: three runtime canaries must
+  resolve (next, @next/env, @modelcontextprotocol/sdk) and a spike of more than
+  20 incomplete @scope dirs is a FAIL -- so this class of damage is caught
+  BEFORE a restart is needed, without false-alarming on build-time leftovers.
+- phone-guard now BLOCKS creating the symlink that started it all: any `ln`
+  command with a symlink flag whose argument names a /node_modules tree is
+  denied (matcher isForbiddenLink, in both the permission and shell hooks).
+  Test: node ~/.opencode/plugins/phone-guard/matchers.test.mjs (3 blocked /
+  4 allowed link cases + the original 19/11 command cases).
+- healthcheck.sh also RUNS that matcher test every time, and scans
+  ~/.opencode for any leftover node_modules symlink (both are PASS/FAIL), so a
+  regression of the guard shows up on the next check.
+- memory-guard.sh now logs a gateway-RSS heartbeat every 5 min
+  ("rss gateway=..MB peak=..MB avail=..MB") plus a --rss one-shot, giving the
+  data to confirm the 512 MB cap against the real trend instead of guessing.
+- ONE-COMMAND REPAIR: ~/.config/opencode/bin/omniroute-repair.sh. Check mode
+  prints HEALTHY/DAMAGED; --repair runs npm install --legacy-peer-deps in the
+  OmniRoute dir (~7 min), refuses under 500 MB free, then re-checks. The
+  healthcheck FAIL lines now name it. Detection branches tested against
+  simulated trees (missing canary / 25 empty scoped dirs / healthy).
+- Everything above is backed up in /public/backups/phone-guard-20261014/
+  (guard files + healthcheck.sh + memory-guard.sh + omniroute-repair.sh).
+- LOCK-INHERITANCE FIX (found by audit, 2026-10-14). The watchdog and memory-guard
+  use flock on a lock file for single-instance. The old claim "the kernel frees
+  the lock when the process dies" was WRONG: children inherit open fds, so an
+  orphaned `sleep` (spawned by the guard, holding the inherited lock fd) kept the
+  flock held after the guard was killed -- and the next start then silently
+  exit 0'd. Seen live: an orphan `sleep 45` held omniroute-watchdog.lock.
+  Fix: close the lock fd on every long-lived child (`sleep ... 9>&-`,
+  `sh "$AUTOSTART" ... 9>&-`, `wget ... 9>&-`) in BOTH scripts. Verified: the
+  guard shells hold the lock while their sleep children hold only fds 0-2, so a
+  kill frees the lock immediately. If a guard ever fails to start, find and kill
+  the holder: `ls -l /proc/*/fd/9 2>/dev/null | grep omniroute-watchdog.lock`.
+- The watchdog now also states WHY a restart failed (runs the repair check, logs
+  "deps: ..." + a HINT), and every ~15 min while healthy logs "LATENT ..." if the
+  tree is damaged -- closing the 02:27-04:52 blind spot.
+
+## Mobile-useful takeaway
+
+- Runs on this hardware as pure Node/Next.js — yes. No compiler, no Docker, no
+  GPU needed; it is an API router, not a local model runner.
+- All 12 compression engines are present, but the ONNX LLMLingua-2 engine is
+  heavy for this phone's memory budget — leave it off and use RTK / Caveman /
+  Lite.
+
+## Links
+
+- https://github.com/diegosouzapw/OmniRoute
+- https://github.com/decolua/9router
+- https://github.com/router-for-me/CLIProxyAPI
+- https://www.npmjs.com/package/omniroute
+- https://omniroute.online
+
+### research/uncensored-models.md
+
+# Uncensored models on this phone (OmniRoute gateway)
+
+Researched 2026-10-14 against the live gateway at 127.0.0.1:20128, the installed
+OmniRoute package, and the upstream provider APIs.
+
+## Short answer
+
+- The gateway has **no mainstream uncensored/abliterated text model** built in.
+  The only "NSFW"/"uncensored" entries are 164 AI Horde **image** checkpoints
+  (Stable Diffusion style), not chat models.
+- There **is** one free, keyless uncensored-ish chat route: the **UncloseAI /
+  Hermes** provider (alias `unc`, no API key). It answers today.
+- Everything genuinely uncensored otherwise needs an API key (Venice,
+  uncensored.com, Nous Research, OpenRouter).
+- Nothing uncensored runs **locally** on the phone.
+
+## The working keyless option: UncloseAI (unc)
+
+- Provider: `uncloseai`, alias `unc`, "UncloseAI", noauth, free, passthrough.
+- Real endpoint (from the package registry file): base
+  `https://hermes.ai.unturf.com/v1/chat/completions`, models
+  `https://hermes.ai.unturf.com/v1/models`. A permacomputer community host.
+- The built-in catalog id is **stale**: it ships
+  `Lorbus/Qwen3.6-27B-int4-AutoRound`, which now returns HTTP 404
+  ("The model ... does not exist"). The package's own note warns the roster
+  rotates and to re-import from /models.
+- **Live id (2026-10-14): `turboderp/Qwen3.8-27B-exl3`** (vLLM backend,
+  max_model_len 65536). Confirmed three ways: the upstream /v1/models, the
+  gateway's own `GET /api/providers/uncloseai/models`, and a real completion.
+- Because the provider is **passthrough**, you can call it even though the
+  stale id is the one shown in `GET /v1/models`:
+
+  ```
+  curl -s http://127.0.0.1:20128/v1/chat/completions \
+    -H 'content-type: application/json' \
+    -d '{"model":"unc/turboderp/Qwen3.8-27B-exl3",
+         "messages":[{"role":"user","content":"hi"}],
+         "max_tokens":200,
+         "chat_template_kwargs":{"enable_thinking":false}}'
+  ```
+
+  Verified: HTTP 200, normal content, `finish_reason: stop`. Tool calling was
+  not tested.
+
+### Caveats for unc
+
+- It is a **reasoning model**. Without `chat_template_kwargs.enable_thinking:
+  false` it spends the output budget inside the `reasoning` field and returns
+  `content: null`. Disable thinking or give it a large max_tokens.
+- Shared free host: it returns `429 model_cooldown` (reset 1-2 min) when busy.
+  Retry after the cooldown.
+- It is Qwen3.8-27B under the hood. Asked directly, it says it follows safety
+  guidelines and declines the label "uncensored". So treat `unc` as
+  "lightly filtered / permissive", not as a true abliterated model.
+
+## Uncensored-capable providers OmniRoute supports (need a key)
+
+All are `api-key` category, none keyless. Add with
+`omniroute providers add <id> --credential-stdin`.
+
+| Provider id | Name | Notes |
+|---|---|---|
+| `venice` | Venice.ai | privacy/no-filter-first host |
+| `uc-direct` | UC Direct (uncensored.com) | literally an uncensored host, alias `ucd` |
+| `nous-research` | Nous Research | Hermes family, alias `nous` |
+| `openrouter` | OpenRouter | widest choice of abliterated/uncensored community models |
+
+`omniroute providers available | grep -i -e venice -e uncensored -e nous -e openrouter`
+lists them. Same list also has many OpenAI-compatible aggregators
+(featherless-style, NanoGPT-style, etc.) that carry uncensored models.
+
+## Local option (not feasible here without work)
+
+Running an abliterated GGUF on the phone would need a runtime and RAM. There is
+no compiler (`gcc`/`make` missing) and no Ollama. A no-compiler path exists --
+`llamafile` (single-file, cosmopolitan libc, aarch64 Linux) -- but a usable
+3-4B Q4 model is roughly 2 GB and only ~3 GB is free, so it is tight. Reference
+only; not set up.
+
+## How to make the id stick in the catalog
+
+`omniroute models add` failed with HTTP 401, and `POST /api/models` is 405, and
+`POST /api/providers/uncloseai/sync-models` is 404 ("Connection not found",
+because `uncloseai` is a catalog provider, not a saved connection). The
+reliable path is the dashboard's Available Models -> Import from /models. Not
+required for calling: passthrough already works with the correct id.
+
+## X-rated (explicit) capability
+
+Two different problems, two different answers.
+
+### Explicit images - available now, free, keyless
+
+Via AI Horde (`aihorde`, noauth, image-only). NSFW-capable checkpoints exposed
+on the gateway include: WAI-NSFW-illustrious-SDXL, WAI-ANI-NSFW-PONYXL,
+Hentai Diffusion, Grapefruit Hentai, Babes, Pony Realism, Yiffy,
+AbyssOrangeMix-AfterDark, Deliberate. Caveats: volunteer queue (waits of
+minutes), anonymous key, no tool calling, image output only.
+
+### Explicit text - needs an uncensored LLM; nothing keyless is reliable
+
+- `unc` (UncloseAI/Hermes) is permissive-ish but Qwen-tuned; treat as likely to
+  refuse explicit sexual content.
+- Cheapest real option: `nlpcloud` (catalog marks it free) carries the classic
+  uncensored models `dolphin` and `chatdolphin`. Free key at nlpcloud.io, then
+  `omniroute providers add nlpcloud --credential-stdin`.
+- No-filter-first hosts: `venice` (api-key) or `venice-web` (web-cookie) for
+  Venice.ai; `uc-direct` (api-key) or `uc` (web-cookie) for uncensored.com.
+- Open-model hosts that carry uncensored/abliterated models: `chutes`,
+  `deepinfra`, `nanogpt`, `featherless-ai`.
+- Local abliterated / Dolphin GGUF via llamafile = the only route with no
+  provider policy at all; ~2 GB and tight RAM. See the local note above.
+
+## Links
+
+- https://uncloseai.com (already in CATALOG.md)
+- https://hermes.ai.unturf.com/v1/models (live roster, keyless)
+
